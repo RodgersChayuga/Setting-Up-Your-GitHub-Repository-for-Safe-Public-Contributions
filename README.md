@@ -120,5 +120,5 @@ MIT License - See [LICENSE](LICENSE) file for details
 ### 📞 Contact
 - Maintainer: Rodgers Chayuga
 - Email: chayugarodgers@gmail.com
-- LinkedIn: [https://github.com/username/repo](https://linkedin.com/in/rodgerschayuga)](https://linkedin.com/in/rodgerschayuga)
+- LinkedIn: [https://github.com/username/repo](https://linkedin.com/in/rodgerschayuga)
 - Website: [https://rodgerschayuga.com](https://rodgerschayuga.com)
