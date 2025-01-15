@@ -118,6 +118,7 @@ npm run lint     # Run linting
 MIT License - See [LICENSE](LICENSE) file for details
 
 ### 📞 Contact
-- Maintainer: [Your Name]
-- Email: [your-email@example.com]
-- Project Link: [https://github.com/username/repo](https://github.com/username/repo)
+- Maintainer: Rodgers Chayuga
+- Email: chayugarodgers@gmail.com
+- LinkedIn: [https://github.com/username/repo](https://linkedin.com/in/rodgerschayuga)](https://linkedin.com/in/rodgerschayuga)
+- Website: [https://rodgerschayuga.com](https://rodgerschayuga.com)
