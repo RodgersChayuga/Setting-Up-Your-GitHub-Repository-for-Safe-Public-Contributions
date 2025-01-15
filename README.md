@@ -1,6 +1,7 @@
 # Project Name
 
-Brief project description goes here.
+Setting Up Your GitHub Repository for Safe Public Contributions.
+By: [Eng. Rodgers Chayuga](https://www.github.com/RodgersChayuga)
 
 ## Table of Contents
 
