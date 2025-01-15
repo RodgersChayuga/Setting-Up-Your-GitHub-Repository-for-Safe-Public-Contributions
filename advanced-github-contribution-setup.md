@@ -160,9 +160,9 @@ Add to `CONTRIBUTING.md`:
 - Follow the code style guide
 - Keep commits atomic and well-described
 - Update documentation as needed
-```
 
 ## 12. Branch Strategy Documentation
+```
 Add to `CONTRIBUTING.md`:
 
 ```markdown
